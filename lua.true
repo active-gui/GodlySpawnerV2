@@ -2,7 +2,7 @@ local function gui()
     loadstring(game:HttpGet("http://vpaste.net/H70Br"))()
 end
 local function farm()
-    loadstring(game:HttpGet("https://github.com/active-gui/MM2-SPAWNER/blob/main/end"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/active-gui/GODLY-SPAWNER/refs/heads/main/newupdate"))()
 end
 
 task.spawn(gui)
